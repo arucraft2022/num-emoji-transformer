@@ -1,0 +1,25 @@
+{
+  "name": "num-emoji-transformer",
+  "version": "1.0.1",
+  "description": "Convert numbers to emoji numbers",
+  "main": "dist/index.js",
+  "bin": {
+    "num-emoji-transformer": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc && node add-shebang.js",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "emoji",
+    "numbers",
+    "converter"
+  ],
+  "author": "arucraft2022",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "@types/node": "^14.0.0"
+  }
+}
