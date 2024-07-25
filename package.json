@@ -1,6 +1,6 @@
 {
   "name": "num-emoji-transformer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert numbers to emoji numbers",
   "main": "dist/index.js",
   "bin": {
