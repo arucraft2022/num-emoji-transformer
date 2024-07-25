@@ -17,6 +17,14 @@
   ],
   "author": "arucraft2022",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/num-emoji-transformer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/num-emoji-transformer/issues"
+  },
+  "homepage": "https://github.com/username/num-emoji-transformer#readme",
   "dependencies": {},
   "devDependencies": {
     "typescript": "^4.0.0",
